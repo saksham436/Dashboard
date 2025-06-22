@@ -42,8 +42,9 @@ Sentiment Analysis integration based on employee feedback or exit interviews.
 Real-Time Updates with live HRIS data connection.
 
 Mobile Optimization for on-the-go executive insights.
-![Screenshot 2025-06-22 235438](https://github.com/user-attachments/assets/7646ab87-56e1-4bb4-80af-a0a4c6e3bce6)
-
+![Screenshot 2025-06-22 143421](https://github.com/user-attachments/assets/98f0b8fb-14df-40b9-9c89-507641780736)
+![Screenshot 2025-06-22 235402](https://github.com/user-attachments/assets/c7d2d282-11bd-45ca-be00-62f7acde152a)
+![Screenshot 2025-06-22 235438](https://github.com/user-attachments/assets/e22035aa-6641-430b-b7a3-3a651e3003aa)
 **✅ Conclusion:**
 
 This Power BI dashboard serves as a valuable tool for understanding employee dynamics within the organization. It highlights key areas affecting attrition and provides an interactive medium for HR teams and leadership to take data-driven actions. With further enhancements, it can evolve into a robust HR analytics solution.
