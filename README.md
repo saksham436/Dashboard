@@ -1,3 +1,6 @@
+![Screenshot 2025-06-22 235438](https://github.com/user-attachments/assets/15d58bd4-457f-4994-a5c2-ae26634d6ada)
+
+![Uploading Screenshot 2025-06-22 234800.png…]()
 
 **📘 Introduction:**
 
@@ -42,7 +45,7 @@ Sentiment Analysis integration based on employee feedback or exit interviews.
 Real-Time Updates with live HRIS data connection.
 
 Mobile Optimization for on-the-go executive insights.
-![Screenshot 2025-06-22 235438](https://github.com/user-attachments/assets/15d58bd4-457f-4994-a5c2-ae26634d6ada)
+
 
 **✅ Conclusion:**
 
