@@ -1,6 +1,5 @@
 ![Screenshot 2025-06-22 235438](https://github.com/user-attachments/assets/15d58bd4-457f-4994-a5c2-ae26634d6ada)
 
-![Screenshot 2025-06-22 234800](https://github.com/user-attachments/assets/6b6122f6-c314-4229-afa7-7c91c02bada7)
 
 
 **📘 Introduction:**
